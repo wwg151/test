@@ -1,0 +1,9 @@
+Package: com.example.notificationisland
+Name: NotificationIsland
+Version: 0.1.0
+Architecture: iphoneos-arm64
+Description: 最小灵动岛通知骨架（iOS 16+ / rootless）：拦截系统横幅并把通知作为 SystemAperture 元素放进灵动岛。
+Maintainer: example
+Author: example
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0)
